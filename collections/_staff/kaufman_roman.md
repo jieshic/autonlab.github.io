@@ -3,7 +3,7 @@ layout: homepage
 first_name: Roman
 last_name: Kaufman
 title: Research Programmer
-category: staff
+category: alumni
 summary: "Research Programmer"
 ---
 
